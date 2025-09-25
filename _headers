@@ -1,0 +1,2 @@
+/*
+  Content-Security-Policy: frame-ancestors https://codepen.io https://*.codepen.io https://cdpn.io https://*.cdpn.io https://www.canva.com https://*.canva.com https://*.canva.site 'self';
